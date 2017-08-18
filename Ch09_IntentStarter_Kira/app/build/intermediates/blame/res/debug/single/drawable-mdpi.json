@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\StudioProjects\\Ch09_IntentStarter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Android\\StudioProjects\\Ch09_IntentStarter\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Ch09_IntentStarter_Kira\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Android\\StudioProjects\\Ch09_IntentStarter_Kira\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

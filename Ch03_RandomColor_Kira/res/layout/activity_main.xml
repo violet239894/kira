@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:ignore="HardcodedText" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="changeColor"
+        android:text="產生數字"
+        android:textSize="45sp" />
+
+    <TextView
+        android:id="@+id/txvR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Number 1：？"
+        android:textSize="45sp"
+        tools:context=".MainActivity" />
+
+    <TextView
+        android:id="@+id/txvG"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Number 2：？"
+        android:textSize="45sp"
+        tools:context=".MainActivity" />
+
+    <TextView
+        android:id="@+id/txvB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Number 3：？"
+        android:textSize="45sp"
+        tools:context=".MainActivity" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="大樂透號碼"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.36"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>
