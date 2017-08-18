@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">好用計數器</string>
+    <string name="numberView">100</string>
+    <string name="menu_settings">Settings</string>
+    <string name="addButton">加 2</string>
+    <string name="lessButton">減 5</string>
+    <string name="multButton">乘 3</string>
+
+</resources>
